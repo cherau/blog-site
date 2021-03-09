@@ -1,2 +1,2 @@
 # blog-site
-Created with CodeSandbox
+Node Js, Mongoose Db, Express Js, Nodemon, Ejs
